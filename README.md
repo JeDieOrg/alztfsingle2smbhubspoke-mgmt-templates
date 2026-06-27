@@ -1,0 +1,2 @@
+# alztfsingle2smbhubspoke-mgmt-templates
+alztfsingle2smbhubspoke-mgmt-templates
